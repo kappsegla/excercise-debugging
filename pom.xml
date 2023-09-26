@@ -9,46 +9,8 @@
 
     <name>Debugging Exercise</name>
     <description>A repository for practicing troubleshooting techniques.</description>
-    <licenses>
-        <license>
-            <name>Creative Commons License</name>
-            <distribution>repo</distribution>
-        </license>
-    </licenses>
-
-    <developers>
-        <developer>
-            <id>ctrueden</id>
-            <name>Curtis Rueden</name>
-            <url>http://imagej.net/User:Rueden</url>
-            <roles>
-                <role>lead</role>
-                <role>debugger</role>
-                <role>reviewer</role>
-                <role>support</role>
-                <role>maintainer</role>
-            </roles>
-        </developer>
-    </developers>
-    <contributors>
-        <contributor>
-            <name>Mark Hiner</name>
-            <url>http://imagej.net/User:Hinerm</url>
-            <roles>
-                <role>founder</role>
-            </roles>
-            <properties>
-                <id>hinerm</id>
-            </properties>
-        </contributor>
-    </contributors>
-
     <properties>
-        <license.licenseName>cc0</license.licenseName>
-        <license.copyrightOwners>Board of Regents of the University of
-            Wisconsin-Madison.
-        </license.copyrightOwners>
-        <maven.compiler.source>17</maven.compiler.source>
-        <maven.compiler.target>17</maven.compiler.target>
+        <maven.compiler.source>21</maven.compiler.source>
+        <maven.compiler.target>21</maven.compiler.target>
     </properties>
 </project>
